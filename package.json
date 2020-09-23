@@ -1,0 +1,20 @@
+{
+  "name": "express-mongodb-storefiles-nogridfs",
+  "version": "1.0.0",
+  "description": "App to upload and store files in mongodb without using gridfs",
+  "main": "index.js",
+  "author": "Vinayak Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.2.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.10.6",
+    "validator": "^13.1.17"
+  }
+}
